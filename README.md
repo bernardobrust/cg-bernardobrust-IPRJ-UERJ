@@ -208,6 +208,8 @@ Teoria
 - Teoria ministrada nos 40min finais de aula conforme acima
 - Alem dos slides acima, foi adotado o livro principal: Folley & Van Dam 3a. ed.
 
+#### Para proxima aula
+- Aos que nao fizeram: completar os passos no computador pessoal e no lab
 
 ### Tarefa 2, referente à Aula 2: prevista para sex27nov26
 #### Plano
@@ -230,7 +232,17 @@ Teoria
         - Exemplo: waves vs warps
 
 
+#### Para proxima aula
+- Aos que nao fizeram: completar os passos no computador pessoal e no lab
+- Praticar Git
+    - http://wiki.nosdigitais.teia.org.br/GIT
+    - se estiver fora do ar, usar web archive
+- Praticar Linux / linha de comando (Obrigatorio)
+    - http://wiki.nosdigitais.teia.org.br/LUPE
+    - se estiver fora do ar, usar web archive
+
 #### Diario de aula
+
 ## TODO
 - abrir ticket de suporte IPRJ (alunos tambem devem): https://atendimento.iprj.uerj.br
     - solicitar softwares ou pacotes
