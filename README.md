@@ -209,7 +209,7 @@ Teoria
 - Alem dos slides acima, foi adotado o livro principal: Folley & Van Dam 3a. ed.
 
 
-### Tarefa 2 prevista para sex27nov26
+### Tarefa 2, referente à Aula 2: prevista para sex27nov26
 #### Plano
 - Objetivo: uso da IA/LLM
 
