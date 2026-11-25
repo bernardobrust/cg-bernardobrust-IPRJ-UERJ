@@ -1,4 +1,4 @@
-# Computacao Graica 2026/2 (fim de 2026 e inicio 2027 devido a greve)
+# Computacao Grafica 2026/2 (fim de 2026 e inicio 2027 devido a greve)
 
 ## Informações gerais
 - **Professor** [Ricardo Fabbri, Ph.D](http://rfabbri.github.io)
@@ -93,7 +93,8 @@ nota em atividades.
 
 ### Tarefa 0: contas, até 17h de 24nov26
 
-Solicito outras tarefas:
+Fazer tanto para o computador usado no LAB,
+como para seu computador pessoal, caso sejam diferentes:
 
 0.1) criar uma conta github até a mesma data, caso ainda não tenha, 
 
@@ -105,6 +106,18 @@ Solicito outras tarefas:
 
 0.5) realizar um pull request para o hello.cpp apenas a titulo de exeercicio
 
+Teoria: Estudar pipeline geral
+- O que é um shader
+    - Tipos de shader (visao geral apenas)
+- O que faz uma GPU
+    Calculos SIMD
+    Modelo -> imagem 2D
+- Diferença entre Fixed Function pipeline e Compute Pipeline
+- Dierença entre rasterização e ray-tracing
+- Otimizada para triangulos, por padrao:
+    Modelo -> triangulos -> transformacoes -> rasterizacao/oclusao/z-buffer/cor -> imagem 2D
+- Fonte:
+    Quadro do professor
 
 
 ### Tarefa 1: vulkan, até 17h de 26nov26
@@ -115,7 +128,18 @@ Solicito outras tarefas:
 assistente de programação eleito/justificado em aula.
 1.3) Instalar Vulkan SDK
 1.4) Testar Vulkan SDK rodando vkcube
-1.5) Compilar hello.cpp
+1.5) Compilar hello
+
+Teoria
+- Pipeline lógico padrão baseado em triângulos
+- Pipeline hardware parão
+- Framebuffers
+- Memória
+- Fonte:
+    - "All the pipelines - journey through the GPU" - Lou Kramer, AMD (youtube)
+    - Complementar com outras arquiteturas
+
+
 
 
 ### Tarefa  1 para x
