@@ -193,6 +193,9 @@ Teoria
         - Foram cobertos slides iniciais, antes do pipeline de hardware
     - Complementar com outras arquiteturas
 
+#### Para proxima aula
+- Aos que nao fizeram: completar os passos no computador pessoal e no lab
+
 #### Diario de aula
 - Foi instalado vulkan SDK em varios computaores, sem necessidade de senha de
   root, baixando-se e instalando renomeando o pacote da SDK para ~/vulkan
@@ -210,6 +213,13 @@ Teoria
 
 #### Para proxima aula
 - Aos que nao fizeram: completar os passos no computador pessoal e no lab
+- Praticar Git
+    - http://wiki.nosdigitais.teia.org.br/GIT
+    - se estiver fora do ar, usar web archive
+- Praticar Linux / linha de comando (Obrigatorio)
+    - http://wiki.nosdigitais.teia.org.br/LUPE
+    - se estiver fora do ar, usar web archive
+- Pre-assistir ao video da AMD acima
 
 ### Tarefa 2, referente à Aula 2: prevista para sex27nov26
 #### Plano
@@ -231,17 +241,9 @@ Teoria
     - Traducao dos termos para Nvidia e Intel graphics
         - Exemplo: waves vs warps
 
-
-#### Para proxima aula
-- Aos que nao fizeram: completar os passos no computador pessoal e no lab
-- Praticar Git
-    - http://wiki.nosdigitais.teia.org.br/GIT
-    - se estiver fora do ar, usar web archive
-- Praticar Linux / linha de comando (Obrigatorio)
-    - http://wiki.nosdigitais.teia.org.br/LUPE
-    - se estiver fora do ar, usar web archive
-
 #### Diario de aula
+
+
 
 ## TODO
 - abrir ticket de suporte IPRJ (alunos tambem devem): https://atendimento.iprj.uerj.br
