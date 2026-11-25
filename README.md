@@ -16,9 +16,15 @@ P = (P1 + P2)/2
 
 T = nota de trabalhos e tarefas
 
+Criterio de medias e prova final padrao UERJ
+
 ## Aulas Teoricas
 
+- Aula 0 e Aula 1 - ministradas junto com tarefa0 e tareefa1 abaixo
+
 ## Aulas Praticas
+
+- Ver secao Tarefas abaixo.
 
 ## Explicacao sobre este repositorio
 Como compilar, etc
@@ -147,10 +153,11 @@ Teoria
 ### Tarefa 2 para x
 
 ## TODO
-- abrir ticket de suporte IPRJ (alunos tambem devem)
+- abrir ticket de suporte IPRJ (alunos tambem devem): https://atendimento.iprj.uerj.br
     - solicitar softwares ou pacotes
-    - quqlquer outro problema
+    - qualquer outro problema
 
 ## See also
+- @AGENTS.md for other natural language / LLM instructions
 - [Curso anterior](http://wiki.nosdigitais.teia.org.br/CG) (em fase de upgrade)
 - Qualquer duvida, o prof. Fabbri se coloca à disposicao para google meet.
