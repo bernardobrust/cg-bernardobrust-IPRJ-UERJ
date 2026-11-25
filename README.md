@@ -213,10 +213,12 @@ Teoria
 #### Plano
 - Objetivo: uso da IA/LLM
 
+
 2.0) Certificar-se que . ~/.vulkan/versao/setup*sh esta no ~/.bash_profile
 2.1) Certificar-se que vkcube e hello realmente estao rodando
-2.2) Conta de estudante do google gemini ou IA de sua preferencia.
-2.3) Testar/Instalar o agy (Google Antigravity) na sua máquina pessoal, que foi o
+2.2) Clicar em Watch no repositorio no Github.com para saber atualizacoes
+2.3) Conta de estudante do google gemini ou IA de sua preferencia.
+2.4) Testar/Instalar o agy (Google Antigravity) na sua máquina pessoal, que foi o
 assistente de programação eleito/justificado em aula.
 
 Teoria
